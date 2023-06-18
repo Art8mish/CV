@@ -23,7 +23,7 @@ Telegram: <a href='mailto:roman.https://t.me/Art8mish'>@Art8mish</a>
 *   [JIT-compiler](https://github.com/Art8mish/JIT-compiler) - JIT-compiler for self-made assembler.
 *   [Hash Table Optimizations](https://github.com/javarushcommunity/javarush-telegrambot) - research of hash table optimization methods.
 *   [SIMD Optimizations](https://github.com/Art8mish/SIMD) - research of optimization using SIMD.
-*   [Programming Language]((https://github.com/Art8mish/Language) - self-made C-like programming language for self-made assembler.
+*   [Programming Language](https://github.com/Art8mish/Language) - self-made C-like programming language for self-made assembler.
 *   [Printf](https://github.com/Art8mish/printf) - self-made printf on x86 assembly.
 
 <p align='center'>

@@ -16,8 +16,10 @@ Courses:
 - The first year of the course of Dedinsky Ilya Rudolfovich.
 
 ## 🛠 Skills
-*   Languages: C, x86 Assembly
-*   Tools: Make, Git
+*   Programming languages: C, x86 Assembly.
+*   Tools: Make, Git.
+
+*   Foreign languages: English B2.
 
 ## :scroll: Projects
 *   [JIT-compiler](https://github.com/Art8mish/JIT-compiler) - JIT-compiler for self-made assembler.

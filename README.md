@@ -12,14 +12,14 @@ Telegram: <a href='mailto:roman.https://t.me/Art8mish'>@Art8mish</a>
 * Direction: Applied Mathematics & Physics.
 * Training period: 2022-2026.
 
-* Courses
-  - The first year of the course of Dedinsky Ilya Rudolfovich.
+Courses:
+- The first year of the course of Dedinsky Ilya Rudolfovich.
 
 ## 🛠 Skills
 *   Languages: C, x86 Assembly
 *   Tools: Make, Git
 
-## Projects
+## :scroll: Projects
 *   [JIT-compiler](https://github.com/Art8mish/JIT-compiler) - JIT-compiler for self-made assembler.
 *   [Hash Table Optimizations](https://github.com/javarushcommunity/javarush-telegrambot) - research of hash table optimization methods.
 *   [SIMD Optimizations](https://github.com/Art8mish/SIMD) - research of optimization using SIMD.

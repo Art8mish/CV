@@ -2,8 +2,8 @@
 MIPT student of Department of Radio Engineering and Cybernetics in the direction of Applied Mathematics & Physics 2022-2026.
 
 ### :mailbox_with_no_mail: Contacts
-Email`: sheptyakov.artem@gmail.com
-Telegram`: <a href='mailto:roman.https://t.me/Art8mish'>https://t.me/Art8mish</a>
+Email: sheptyakov.artem@gmail.com
+Telegram: <a href='mailto:roman.https://t.me/Art8mish'>https://t.me/Art8mish</a>
 
 ## :microscope: Education
 * Institute: Moscow Institute of Physics and Technology.

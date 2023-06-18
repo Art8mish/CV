@@ -4,7 +4,7 @@ MIPT student of Department of Radio Engineering and Cybernetics in the direction
 ### :mailbox_with_no_mail: Contacts
 Email: sheptyakov.artem@gmail.com
 
-Telegram: <a href='mailto:roman.https://t.me/Art8mish'>https://t.me/Art8mish</a>
+Telegram: <a href='mailto:roman.https://t.me/Art8mish'>@Art8mish</a>
 
 ## :microscope: Education
 * Institute: Moscow Institute of Physics and Technology.

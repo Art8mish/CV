@@ -25,11 +25,3 @@ Courses:
 *   [SIMD Optimizations](https://github.com/Art8mish/SIMD) - research of optimization using SIMD.
 *   [Programming Language](https://github.com/Art8mish/Language) - self-made C-like programming language for self-made assembler.
 *   [Printf](https://github.com/Art8mish/printf) - self-made printf on x86 assembly.
-
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Art8mish&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=Art8mish&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/Art8mish/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Art8mish&layout=compact"/></a>
-</p>

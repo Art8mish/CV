@@ -25,3 +25,6 @@ Courses:
 *   [SIMD Optimizations](https://github.com/Art8mish/SIMD) - research of optimization using SIMD.
 *   [Programming Language](https://github.com/Art8mish/Language) - self-made C-like programming language for self-made assembler.
 *   [Printf](https://github.com/Art8mish/printf) - self-made printf on x86 assembly.
+
+## P.S.
+More information you can see in file `SheptyakovAD_CV.pdf` in this repo.
